@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="none"/>
+  <circle cx="60" cy="128" r="12" style="" transform="matrix(1.972038, 0, 0, 2.014482, -66.05352, -201.159622)"/>
+  <circle cx="60" cy="128" r="12" style="" transform="matrix(1.972038, 0, 0, 2.014482, 5.41941, -201.827606)"/>
+  <circle cx="60" cy="128" r="12" style="" transform="matrix(1.972038, 0, 0, 2.014482, -67.72345, -128.350769)"/>
+  <circle cx="60" cy="128" r="12" style="" transform="matrix(1.972038, 0, 0, 2.014482, 8.425273, -129.686707)"/>
+  <circle cx="60" cy="128" r="12" style="" transform="matrix(1.972038, 0, 0, 2.014482, 84.90799, -127.014824)"/>
+  <circle cx="60" cy="128" r="12" style="" transform="matrix(1.972038, 0, 0, 2.014482, -70.39534, -51.200085)"/>
+  <circle cx="60" cy="128" r="12" style="" transform="matrix(1.972038, 0, 0, 2.014482, 4.083462, -50.198116)"/>
+  <circle cx="60" cy="128" r="12" style="" transform="matrix(1.972038, 0, 0, 2.014482, 82.236092, -51.200085)"/>
+  <circle cx="60" cy="128" r="12" style="" transform="matrix(1.972038, 0, 0, 2.014482, 84.240028, -197.151779)"/>
+</svg>
